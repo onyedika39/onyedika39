@@ -1,4 +1,14 @@
 ## Hi there 👋
+My name is Kenechukwu Onyedika Michael, I'm a trained computer scientist interested in all things Python and Data Science
+ - 🌱 I’m proficient in using data Science tools such as Microsoft Excel, Google Sheet, and SPSS, as well as data visualization tools like Power BI, Python, Machine Learning, Tableau and SQL.
+ - 👩‍🎤 In addition to my technical skills, I possess strong soft skills including problem solving, critical thinking, clear communication, and the ability to collaborate and work well in a team.
+ - 💼 I have experience working as a freelance data analyst on platforms like Upwork, where I have completed projects related to data cleaning, statistical analysis, data visualization and reporting and creation of data Science learning content for 
+   various clients.
+ - 👯 I’m looking to collaborate on python, data Science jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions.
+ - 🔹 I post valuable data-related content on my linkedin page
+ - 📫 Connect with Me: https://www.linkedin.com/in/onyedika-kenechukwu-3b3151309/Here
+
+
 
 <!--
 **onyedika39/onyedika39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
