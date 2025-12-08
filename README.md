@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Kenechukwu Onyedika Michael 
-I am a data scientist with a strong background in health analysis. expertise in machine learning, statistical analysis, and data visualization. Skilled in Python, Power BI, and Tableau, I specialize in transforming data into actionable insights. My projects span predictive modeling, customer analysis, and data-driven recommendations across various industries. Passionate about solving real-world problems with data, I am eager to apply my skills across various industries.
- - I’m looking to collaborate on python, data Science jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions.
+My name is Michael Onyedika Kenechukwu
+I am a data Analysis, expertise in Sql, and data visualization. Skilled in Excel, Python, Power BI, and Tableau, I specialize in transforming data into actionable insights. My projects span predictive modeling, customer analysis, and data-driven recommendations across various industries. Passionate about solving real-world problems with data, I am eager to apply my skills across various industries.
+ - I’m looking to collaborate on Data analysis, jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions.
  - I post valuable data-related content on my linkedin page
  - Connect with Me: https://www.linkedin.com/in/onyedika-kenechukwu-3b3151309/Here
 
