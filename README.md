@@ -1,11 +1,11 @@
 ﻿# Michael Kenechukwu
 
-Data analytics and machine learning portfolio focused on turning raw data into clear business insight, dashboards, and practical predictive workflows.
+Data analytics and business intelligence portfolio focused on turning raw data into clear business insight, dashboards, and practical workflows.
 
 ## Focus Areas
 
 - SQL analysis for customer behavior, attrition, sales, and operational questions
-- Python and Jupyter Notebook projects for exploratory analysis and machine learning
+- Python and Jupyter Notebook projects for exploratory analysis, with selected machine learning projects
 - Excel, Tableau, and Power BI dashboards for executive reporting
 - End-to-end portfolio projects with documentation, visuals, and business recommendations
 
@@ -24,3 +24,4 @@ SQL | Python | pandas | NumPy | scikit-learn | Jupyter Notebook | Excel | Tablea
 ## Portfolio Goal
 
 My GitHub is organized to show practical analytics work: clear problem statements, clean project structure, documented workflows, visual outputs, and business-focused recommendations.
+
