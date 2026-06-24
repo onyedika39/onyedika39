@@ -1,23 +1,26 @@
-## Hi there 👋
-My name is Michael Onyedika Kenechukwu
-I am a data Analysis, expertise in Sql, and data visualization. Skilled in Excel, Python, Power BI, and Tableau, I specialize in transforming data into actionable insights. My projects span predictive modeling, customer analysis, and data-driven recommendations across various industries. Passionate about solving real-world problems with data, I am eager to apply my skills across various industries.
- - I’m looking to collaborate on Data analysis, jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions.
- - I post valuable data-related content on my linkedin page
- - Connect with Me: https://www.linkedin.com/in/onyedika-kenechukwu-3b3151309/Here
+﻿# Michael Kenechukwu
 
+Data analytics and machine learning portfolio focused on turning raw data into clear business insight, dashboards, and practical predictive workflows.
 
+## Focus Areas
 
-<!--
-**onyedika39/onyedika39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- SQL analysis for customer behavior, attrition, sales, and operational questions
+- Python and Jupyter Notebook projects for exploratory analysis and machine learning
+- Excel, Tableau, and Power BI dashboards for executive reporting
+- End-to-end portfolio projects with documentation, visuals, and business recommendations
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Nordex Shift System](https://github.com/onyedika39/Nordex_Shift_System): manufacturing analytics and machine learning system with FastAPI, Streamlit, MLflow, and DagsHub.
+- [10Alytics Sentiment Analysis Project](https://github.com/onyedika39/10Alytics_sentiment_analysis_project): NLP sentiment analysis application for e-commerce reviews.
+- [Customer Shopping Behavior Analysis](https://github.com/onyedika39/customer_behavior_analysis): SQL, Python, and Power BI workflow for customer purchase insights.
+- [IBM Data Science Capstone](https://github.com/onyedika39/Capstone-Project-IBM): classification workflow for SpaceX Falcon 9 landing prediction.
+- [Heart Failure Clinical Records ML](https://github.com/onyedika39/Health-Failure-Clinical-record-Ml): healthcare machine learning analysis for patient outcome prediction.
+
+## Tools
+
+SQL | Python | pandas | NumPy | scikit-learn | Jupyter Notebook | Excel | Tableau | Power BI | FastAPI | Streamlit | MLflow
+
+## Portfolio Goal
+
+My GitHub is organized to show practical analytics work: clear problem statements, clean project structure, documented workflows, visual outputs, and business-focused recommendations.
